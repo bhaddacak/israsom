@@ -1,35 +1,53 @@
 ---
-title: Home
+title: หน้าแรก
 layout: home
+nav_order: 1
+permalink: /
+last_modified_date: 2023-07-17 12:00:00 +0700
 ---
+<center>
+<table>
+<tbody>
+<tr>
+<td style="text-align:center;">
+<h1>อิสราศรม ทิศาปาโมกข์</h1>
+เพื่อความเข้าใจพุทธศาสนาอย่างมีเหตุผล โดย จ. ร. ภัททจักร 
+</td>
+<td style="text-align:center;">
+<img src="{{ '/assets/images/silaprat-logo.png' | relative_url }}" />
+</td>
+</tr>
+</tbody>
+</table>
+</center>
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+## จุดประสงค์ของโครงการ
+อิสราศรม ทิศาปาโมกข์เป็นเว็บไซต์เพื่อเผยแพร่ความรู้เกี่ยวกับพุทธศาสนา โดยเน้นให้ความเข้าใจอย่างมีเหตุผล มิใช่เป็นเพียงการส่งต่อความรู้ตามแนวขนบที่สืบต่อกันมา หรือเป็นการยัดเยียดความเชื่อให้อย่างมืดบอด เพื่อให้ผู้ศึกษาอยู่ใต้อำนาจครอบงำของระบบใดระบบหนึ่ง การใช้เหตุผลจึงเป็นอุปกรณ์สำคัญที่สุดที่จะทำให้ผู้ศึกษาเข้าใจพุทธศาสนาอย่างถูกต้องและมีประโยชน์
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+จากที่กล่าวมาจึงพูดได้ว่า ความเชื่อพื้นฐานของโครงการคือ พุทธศาสนาเป็นศาสนาที่มีเหตุผลและสามารถเข้าใจได้ด้วยเหตุผล มิใช่เป็นเพียงระบบความเชื่อที่สืบต่อกันมา เพื่อรักษาอำนาจและผลประโยชน์ของกลุ่มบุคคลที่เกี่ยวข้อง เมื่อผู้ศึกษาเข้าใจด้วยตนเองอย่างมีเหตุมีผลแล้ว การเลือกที่จะเชื่อหรือไม่เชื่อแนวความคิดอันใดอันหนึ่งจึงเป็นสิทธิและหน้าที่ของผู้ศึกษาเองที่จะต้องตัดสินใจ การรับเอาแนวความคิดอันใดอันหนึ่งเข้ามาเป็นความเชื่อของตนเองโดยปราศจากการไตร่ตรองถือว่าเป็นอันตรายและขัดต่อหลักการโดยรวมของพุทธศาสนาเอง
 
-More specifically, the created site:
+## โครงสร้างตามแผนงาน
+ตามแผนงานที่ได้วางไว้ อิสราศรม ทิศาปาโมกข์เป็นโครงการระยะยาว เนื้อหาในส่วนต่าง ๆ จะค่อย ๆ เพิ่มขึ้นตามกำลังของผู้จัดทำที่สามารถทำได้ โครงสร้างคร่าว ๆ ของเนื้อหาจะประกอบด้วย
+- [*ความรู้จำเป็นเบื้องต้น*]({{ '/docs/essentials' | relative_url }}) เนื้อหาส่วนนี้จะปูพื้นฐานให้ผู้ศึกษารู้จักการคิดวิเคราะห์อย่างมีเหตุผล โดยจะเน้นในส่วนที่เกี่ยวข้องกับพุทธศาสนา รวมถึงความรู้ที่ควรจะมีเป็นเบื้องต้นก่อนที่จะศึกษาส่วนอื่น ๆ ต่อไป ส่วนนี้สมบูรณ์กว่าส่วนอื่นและมีเนื้อหาไม่มากนัก ควรอ่านทั้งหมดให้ละเอียดด้วยวิจารณญาณ เนื้อหาบางอย่างอาจจะขัดกับความเชื่อที่มีอยู่แล้ว ไม่ต้องยอมรับทั้งหมด เพียงแต่ขอให้พิจารณาด้วยเหตุด้วยผล
+- [*บาลีสำหรับคนรุ่นใหม่*]({{ '/docs/pali' | relative_url }}) ภาษาบาลีมีความสำคัญต่อการศึกษาพุทธศาสนาอย่างมาก แต่การศึกษาบาลีตามแนวขนบนั้นถูกทำให้ยากเกินไปโดยไม่จำเป็น ผู้จัดทำจึงนำเสนอการเรียนภาษาบาลีแนวใหม่ที่จะช่วยให้ผู้ศึกษาเข้าใจและใช้ภาษาได้อย่างรวดเร็ว เนื้อหาส่วนนี้น่าจะมากพอสมควร แต่อาจจะไม่ละเอียดเท่าฉบับภาษาอังกฤษของผู้จัดทำ เป็นการเขียนขึ้นใหม่ด้วยภาษาไทยไม่ได้แปลมาโดยตรง ส่วนนี้จะค่อย ๆ เพิ่มเนื้อหาตามโอกาสและกำลังจะเอื้ออำนวย
+- *ศาสนศึกษาเบื้องต้น* จุดประสงค์หลักของเนื้อหาส่วนนี้คือ สร้างความเข้าใจในศาสนาอย่างเป็นวิทยาศาสตร์ ความรู้ในส่วนนี้เทียบได้กับพื้นฐานที่สอนกันในหลักสูตร religious studies แต่ไม่ได้นำมาเสนอทุกเรื่อง เป็นเพียงบางส่วนที่เห็นว่าสำคัญและจำเป็นต่อความเข้าใจที่ผู้ศึกษาเกี่ยวกับศาสนาในยุคปัจจุบันจะต้องรู้ เนื้อหาส่วนนี้อยู่ในแผนและจะเพิ่มเข้ามาเมื่อพื้นฐานหลักสูตรภาษาบาลีได้วางไว้แล้วอย่างดี
+- *บทความเชิงวิพากษ์* ส่วนนี้เป็นตัวอย่างผลผลิตที่ได้จากการศึกษาของผู้จัดทำ หรืออาจจะเป็นงานเขียนที่ไม่สามารถจัดอยู่ในกลุ่มที่กล่าวมาแล้วข้างต้น
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+## ข้อที่พึงทราบเบื้องต้น
+- กลุ่มเป้าหมายของโครงการคือบุคคลทั่วไปที่สนใจพุทธศาสนาอย่างจริงจัง *บุคคลทั่วไป* หมายถึงไม่จำเป็นจะต้องเป็นผู้ที่ศึกษาในวิทยาลัยต่าง ๆ แต่เป็นผู้ที่ใฝ่รู้และพร้อมที่จะเปิดใจรับสิ่งใหม่ ๆ มิใช่ผู้ที่ยึดติดอยู่ในความเชื่อระบบใดระบบหนึ่งอย่างเหนียวแน่น คำว่า *อย่างจริงจัง* หมายถึงผู้ศึกษามีความต้องการที่จะได้รับความรู้ที่ดีและทันสมัยที่สุด และพร้อมที่จะทุ่มเทแรงกายแรงใจเพื่อการศึกษาอย่างจริงจัง
+- ผู้ที่มีความรู้ในระดับอุดมศึกษาควรศึกษาผลงานภาษาอังกฤษของผู้จัดทำโดยตรง จะได้ผลดีกว่ามาก เพราะการนำเสนอเนื้อหาวิชาการด้วยภาษาไทยมีข้อจำกัดมาก ในที่นี้เนื้อหาจึงไม่ได้เข้มข้นเหมือนที่ปรากฏในฉบับภาษาอังกฤษ อย่างไรก็ตามมาตรฐานทางวิชาการยังคงรักษาไว้ระดับหนึ่ง
+- ถึงแม้เนื้อหาจะเป็นภาษาไทย แต่ความรู้ภาษาอังกฤษก็มีความสำคัญ เพราะภาษาอังกฤษใช้สื่อสารได้ดีกว่า ตรงกว่า ชัดกว่า บิดเบือนน้อยกว่า ดังนั้นผู้จัดทำจะหลีกเลี่ยงการใช้ศัพท์บัญญัติภาษาบาลีที่เข้าใจยาก และถ้าศัพท์บัญญัติภาษาไทยไม่ช่วยในการเข้าใจ การใช้ภาษาอังกฤษถือว่าเป็นข้อปฏิบัติปกติ
+- ความจริงภาษาอังกฤษมีความจำเป็นต่อการศึกษาภาษาบาลีตามแนวของผู้จัดทำ เนื่องจากบาลีกับอังกฤษเป็นภาษาในตระกูลเดียวกัน ความเข้าใจในภาษาอังกฤษจะช่วยสร้างความเข้าใจในภาษาบาลีได้ดีกว่าและง่ายกว่าการเรียนด้วยภาษาไทย ดังนั้นผู้จัดทำจะไม่พยายามทำทุกอย่างให้เป็นภาษาไทยโดยไม่จำเป็น และขอสนับสนุนให้ผู้สนใจศึกษาภาษาอังกฤษจนถึงระดับอ่านได้
+- ข้อความใดจากพระไตรปิฎกที่ถูกยกขึ้นในที่นี้นำมาจากฉบับฉฏฺฐสงฺคายนาของพม่าตามที่ปรากฏในโปรแกรม [`Pāli Platform`](https://bhaddacak.github.io/paliplatform)
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+## เกี่ยวกับผู้จัดทำ
+จ. ร. ภัททจักร จบการการศึกษาระดับปริญญาเอกสาขาศาสนศึกษาในหลักสูตรนานาชาติ มีความสนใจพุทธศาสนาเถรวาทในฐานะผลผลิตทางวัฒนธรรม นอกจากนี้ยังมีพื้นฐานทางวิทยาศาสตร์คอมพิวเตอร์และเป็นโปรแกรมเมอร์มืออาชีพ (แต่ไม่ได้อยู่ในอุตสาหกรรมนั้น) ผลงานสำคัญคือโปรแกรมเรียนรู้และวิจัยภาษาบาลี [`Pāli Platform`](https://bhaddacak.github.io/paliplatform) คู่มือเรียนภาษาบาลียุคใหม่ *Pāli for New Learners* [เล่ม 1](https://bhaddacak.github.io/palicon) กับ [เล่ม 2](https://bhaddacak.github.io/palitex) ผลงานจากดุษฎีนิพนธ์ [*Buddhist Discourses in Thai Merit-Making Rituals*](https://bhaddacak.github.io/buddisthai) และผลงานอื่น ๆ ตามที่ปรากฏในเว็บไซต์ [bhaddacak.github.io](https://bhaddacak.github.io)
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+## เกี่ยวกับเว็บไซต์
+โครงการอิสราศรมใช้โฮสต์ของ Github ดูแลโดย [bhaddacak](https://github.com/bhaddacak) ตัวช่วยสำคัญในการสร้างหน้าเว็บคือ Jekyll กับเทคโนโลยี Markdown ธีมที่ใช้คือ [`Just the Docs`](https://just-the-docs.github.io/just-the-docs/) มีความเรียบง่ายสวยงามและปรับแต่งได้สะดวก ฟอนต์ที่ใช้คือ Arundina Pali Sans ดัดแปลงโดยผู้จัดทำจาก [Arundina Sans](https://github.com/tlwg/fonts-arundina) โดยเพิ่มตัวอักษรที่จำเป็นในการแสดงอักษรบาลีโรมัน มีความชัดเจน อ่านง่ายและสวยงาม (อักษรภาษาอังกฤษของฟอนต์นี้มีแบบตรงกับ [DejaVu Sans](https://dejavu-fonts.github.io)) โปรแกรมช่วยค้นหาคือ [`lunr`](https://lunrjs.com) สามารถค้นหาคำได้ทั้งภาษาไทยและอังกฤษ การค้นคำภาษาไทยอาจจะมีปัญหาเรื่องการกำหนดคำบ้าง เช่นถ้าค้น "พุทธเจ้า" ไม่พบ ให้ค้น "\*พุทธเจ้า" หรือ "\*พุทธเจ้า\*" แทน ผู้ที่ต้องการไฟล์ pdf ของเนื้อหาทั้งหมด (อาจจะไม่ทันสมัยเท่าในเว็บ) ให้ดูที่ [github.com/bhaddacak/israsom/releases](https://github.com/bhaddacak/israsom/releases)
 
-To get started with creating a site, simply:
+## เกี่ยวกับลิขสิทธิ์
+ในส่วนเนื้อหาลิขสิทธิ์เป็นของผู้จัดทำภายใต้ [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) คือสามารถใช้และเผยแพร่ได้อย่างอิสระโดยต้องระบุที่มา ห้ามใช้ในเชิงพาณิชย์ และห้ามดัดแปลง ในส่วนของโปรแกรมที่ทำเพิ่มจากโครงสร้างพื้นฐาน ไม่ว่าจะเป็นข้อมูลที่สร้างขึ้นโดยผู้จัดทำ โปรแกรมภาษา JavaScript และอื่น ๆ ขอสงวนลิขสิทธิ์ภายใต้ [GNU General Public License](https://www.gnu.org/licenses/), version 3 คือสามารถนำไปใช้และเผยแพร่ได้โดยต้องเปิดเผยส่วนของข้อมูลและโปรแกรมทั้งหมดด้วย (รวมทั้งเงื่อนไขอื่น ๆ ที่ระบุไว้ในใบอนุญาต)
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
-
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+{: .remark }
+The content is copyrighted under a *Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License*. The program and data added upon the exiting framework, created by the author, are copyrighted under the *GNU General Public License*, version 3.
