@@ -3,7 +3,7 @@ layout: default
 title: ความสำคัญของเหตุผล
 parent: ความรู้จำเป็นเบื้องต้น
 nav_order: 10
-last_modified_date: 2026-07-19 12:00:00 +0700
+last_modified_date: 2026-08-22 12:00:00 +0700
 ---
 
 # {{ page.title  }}
@@ -12,20 +12,20 @@ last_modified_date: 2026-07-19 12:00:00 +0700
 {: .warning }
 พุทธศาสนาเข้าใจด้วยเหตุผลไม่ได้ พุทธศาสนาอยู่นอกเหตุเหนือผล
 
-คำกล่าวข้างต้นเป็นอุปสรรคสำคัญที่จะกีดกันผู้ศึกษาออกจากการศึกษาในแนวนี้ โดยใช้ข้ออ้างที่มักได้ยินได้ฟังมา โดยเฉพาะคำว่า *นอกเหตุเหนือผล* ที่เคยใช้โดยหลวงพ่อชา สุภัทโท มาก่อน ด้วยความเชื่อเหล่านี้ ดูเหมือนเหตุผลจะเป็นอุปสรรคต่อการเข้าถึงพุทธศาสนา ข้อนี้สำคัญ และเพื่อความชัดเจนผู้เขียนขอยกตอนที่หลวงพ่อชากล่าวถึง "นอกเหตุเหนือผล" มาดังนี้
+คำกล่าวข้างต้นเป็นอุปสรรคสำคัญที่จะกันผู้ศึกษาออกจากการศึกษาในแนวนี้ โดยใช้ข้ออ้างที่มักได้ยินได้ฟังมา โดยเฉพาะคำว่า *นอกเหตุเหนือผล* ที่เคยใช้โดยหลวงพ่อชา สุภัทโทมาก่อน ด้วยความเชื่อเหล่านี้ ดูเหมือนเหตุผลจะเป็นอุปสรรคต่อการเข้าถึงพุทธศาสนา ข้อนี้สำคัญ และเพื่อความชัดเจนผู้เขียนขอยกตอนที่หลวงพ่อชากล่าวถึง "นอกเหตุเหนือผล" มาดังนี้
 
-> ในทางพุทธศาสาให้ทำเพื่อไม่ต้องการอะไร ถ้ามีเพื่ออะไรมันไม่หมด ทางโลกทำอะไรเรียกว่ามันมีเหตุผลพระพุทธองค์ท่านทรงสอนว่าให้ "นอกเหตุเหนือผล" ไม่ว่าจะทำอะไร ปัญญาของท่านให้นอกเหตุเหนือผล ให้นอกเกิดเหนือตาย นอกสุขเหนือทุกข์
+> ในทางพุทธศาสนาให้ทำเพื่อไม่ต้องการอะไร ถ้ามีเพื่ออะไรมันไม่หมด ทางโลกทำอะไรเรียกว่ามันมีเหตุผลพระพุทธองค์ท่านทรงสอนว่าให้ "นอกเหตุเหนือผล" ไม่ว่าจะทำอะไร ปัญญาของท่านให้นอกเหตุเหนือผล ให้นอกเกิดเหนือตาย นอกสุขเหนือทุกข์
 >
 > ลองคิดตามไปซิลองพิจารณาไปตาม คนเราเคยอยู่ในบ้าน พอหนีจากบ้านไปไม่มีที่อยู่ ไม่รู้จะทำอย่างไร เพราะเรามันเคยอยู่ในภพ อยู่ในความยึดมั่นถือมั่นเป็นภพ ถ้าไม่มีความยึดมั่นถือมั่นแล้ว ก็เรียกว่าไม่รู้ว่าจะทำอะไร[^chah-noabiding-th]
 >
-> The worldly way is to do things for a reason, to get some return, but in Buddhism we do things without any gaining idea. The world has to understand things in terms of cause and effect, but the Buddha teaches us to go above and *beyond cause and effect*. His wisdom was to go above cause, beyond effect; to go above birth and beyond death; to go above happiness and beyond suffering.
+> The worldly way is to do things for a reason, to get some return, but in Buddhism we do things without any gaining idea. The world has to understand things in terms of cause and effect, but the Buddha teaches us to go *above and beyond cause and effect*. His wisdom was to go above cause, beyond effect; to go above birth and beyond death; to go above happiness and beyond suffering.
 >
 > Think about it...there's nowhere to stay. We people live in a 'home'. To leave home and go where there is no home... we don't know how to do it, because we've always lived with becoming, with clinging. If we can't cling we don't know what to do.[^chah-noabiding-en]
 
 [^chah-noabiding-th]: "นอกเหตุเหนือผล" [https://www.ajahnchah.org/thai/No_Abiding.php](https://www.ajahnchah.org/thai/No_Abiding.php)
 [^chah-noabiding-en]: "No Abiding," [http://www.ajahnchah.org/book/No_Abiding1.php](http://www.ajahnchah.org/book/No_Abiding1.php)
 
-ถ้าดูให้ดีจะเห็นว่า "นอกเหตุเหนือผล" ของหลวงพ่อชาหมายถึง beyond cause and effect ไม่ใช่ unable to reason เพราะทุกอย่างต้องใช้เหตุผล (reasoning) จึงจะเข้าใจกันได้ ในที่นี้หลวงพ่อท่านเตือนว่าการคิดถึงแต่ว่าทำอันนี้ (เหตุ) จะได้อันนั้น (ผล) แบบโลก ๆ ทำให้เรายึดมั่นถือมั่นมากขึ้น ท่านไม่ได้ให้เราเลิกใช้เหตุผล
+ถ้าดูให้ดีจะเห็นว่า "นอกเหตุเหนือผล" ของหลวงพ่อชาหมายถึง above and beyond cause and effect ไม่ใช่ unable to reason เพราะทุกอย่างต้องใช้เหตุผล (reasoning) จึงจะเข้าใจกันได้ ในที่นี้หลวงพ่อท่านเตือนว่าการคิดถึงแต่ว่าทำอันนี้ (เหตุ) จะได้อันนั้น (ผล) แบบโลก ๆ ทำให้เรายึดมั่นถือมั่นมากขึ้น ท่านไม่ได้ให้เราเลิกใช้เหตุผล
 
 เพื่อความกระจ่างมากขึ้นต่อไป เราต้องเห็นด้วยว่าอะไรคือสิ่งที่ไม่ใช่การใช้เหตุผล ในการที่จะให้ผู้อื่นยอมรับความเชื่อหรือการปฏิบัติอย่างใดอย่างหนึ่งนั้น ดูเหมือนจะทำได้โดย 3 วิธีใหญ่ ๆ คือ
 
