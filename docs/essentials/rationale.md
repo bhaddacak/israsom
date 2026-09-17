@@ -23,7 +23,7 @@ last_modified_date: 2026-08-22 12:00:00 +0700
 > Think about it...there's nowhere to stay. We people live in a 'home'. To leave home and go where there is no home... we don't know how to do it, because we've always lived with becoming, with clinging. If we can't cling we don't know what to do.[^chah-noabiding-en]
 
 [^chah-noabiding-th]: "นอกเหตุเหนือผล" [https://www.ajahnchah.org/thai/No_Abiding.php](https://www.ajahnchah.org/thai/No_Abiding.php)
-[^chah-noabiding-en]: "No Abiding," [http://www.ajahnchah.org/book/No_Abiding1.php](http://www.ajahnchah.org/book/No_Abiding1.php)
+[^chah-noabiding-en]: "No Abiding," [http://www.ajahnchah.org/book/No_Abiding1.php](https://www.ajahnchah.org/book/No_Abiding1.php)
 
 ถ้าดูให้ดีจะเห็นว่า "นอกเหตุเหนือผล" ของหลวงพ่อชาหมายถึง above and beyond cause and effect ไม่ใช่ unable to reason เพราะทุกอย่างต้องใช้เหตุผล (reasoning) จึงจะเข้าใจกันได้ ในที่นี้หลวงพ่อท่านเตือนว่าการคิดถึงแต่ว่าทำอันนี้ (เหตุ) จะได้อันนั้น (ผล) แบบโลก ๆ ทำให้เรายึดมั่นถือมั่นมากขึ้น ท่านไม่ได้ให้เราเลิกใช้เหตุผล
 

@@ -3,7 +3,7 @@ title: หน้าแรก
 layout: home
 nav_order: 1
 permalink: /
-last_modified_date: 2026-07-19 12:00:00 +0700
+last_modified_date: 2026-09-17 12:00:00 +0700
 ---
 <center>
 <table>
@@ -11,10 +11,11 @@ last_modified_date: 2026-07-19 12:00:00 +0700
 <tr>
 <td style="text-align:center;">
 <h1>อิสราศรม ทิศาปาโมกข์</h1>
-เพื่อความเข้าใจพุทธศาสนาอย่างมีเหตุผล โดย จ. ร. ภัททจักร 
+เพื่อความเข้าใจพุทธศาสนาอย่างมีเหตุผล โดย จ. ร. ภัททจักร<br>
+<a href="https://www.facebook.com/disapamokkh" target="_blank"><img src="{{ '/assets/images/facebook-logo.png' | relative_url }}" /></a>
 </td>
 <td style="text-align:center;">
-<img src="{{ '/assets/images/silaprat-logo.png' | relative_url }}" />
+<img src="{{ '/assets/images/disa-logo.png' | relative_url }}" />
 </td>
 </tr>
 </tbody>
