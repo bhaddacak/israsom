@@ -91,9 +91,7 @@ last_modified_date: 2026-07-20 12:00:00 +0700
 
 จากหลักฐานต่าง ๆ ที่ยกมาทำให้ศาสตราจารย์ชยติลเลเกสรุปความเรื่องนี้ไว้ดังนี้
 
-> [N]either did the Buddha claim omniscience nor was omniscience claimed
-of the Buddha until the very latest stratum in the Pāli Canon and that is even
-after most of the books of the Abhidhamma had been completed.[^jayatilleke-omniscience]
+> [N]either did the Buddha claim omniscience nor was omniscience claimed of the Buddha until the very latest stratum in the Pāli Canon and that is even after most of the books of the Abhidhamma had been completed.[^jayatilleke-omniscience]
 >
 > พระพุทธเจ้าไม่ได้อ้างว่าตนเป็นผู้รู้ทุกสิ่ง และความเป็นผู้รู้ทุกสิ่งไม่ได้ถูกอ้างว่าเป็นของพระพุทธเจ้าจนกระทั่งพระไตรปิฎกชั้นล่าสุดที่เพิ่มเข้าไป หลังจากคัมภีร์พระอภิธรรมส่วนใหญ่ถูกเขียนเสร็จด้วยซ้ำไป
 
